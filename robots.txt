@@ -2,6 +2,6 @@ User-agent: *
 Allow: /
 Disallow:
 
-Sitemap: https://zdenekdrexler.cz/sitemap.xml
+Sitemap: https://vyjednavani.zdenekdrexler.cz/sitemap.xml
 
 
