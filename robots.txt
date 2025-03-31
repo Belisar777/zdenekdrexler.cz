@@ -3,5 +3,3 @@ Allow: /
 Disallow:
 
 Sitemap: https://zdenekdrexler.cz/sitemap.xml
-
-
